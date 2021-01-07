@@ -1,0 +1,217 @@
+*{
+    font-family: 'PT Sans', sans-serif;
+}
+.header{
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+.links a{
+    text-decoration: none;
+    color: black;
+    
+}
+.header_h2{
+    display: inline;
+    
+}
+.header_offers{
+    display: inline;
+    margin-left: 30px;
+   text-decoration:none;
+   font-weight:bold;
+}
+.header_contact{
+    display: inline;
+    margin-left: 30px;
+    font-weight: bold;
+}
+.header_variety{
+    display: inline;
+    margin-left: 350px;
+    font-weight: bold;
+}
+.header_aboutus{
+    display: inline;
+    margin-left: 300px;
+    font-weight: bold;
+}
+/*.header_orangeimg{
+    display: inline;
+    width: 80px;
+    height: 60px;
+}*/
+.maintxt{
+    margin:100px;
+}
+.maintxt_h2{
+    margin: 0;
+    font-weight: 100;
+    opacity: 0.8;
+    font-size: 40px;
+}
+.maintxt_h1{
+    margin: 0;
+    font-size: 70px;
+    
+}
+.maintxt_discovermore{
+    display: inline-block;
+    margin-top: 30px;
+    padding: 20px 40px;
+    border-radius: 10px;
+    border: dotted skyblue;
+    border-width: 2px;
+    font-weight: bold;
+}
+.maintxt_discovermore a{
+    text-decoration: none;
+    color:lightseagreen;
+}
+.orange-main{
+    position: absolute;
+    bottom:30px;
+    left: 650px;
+}
+.varietybox{
+    margin-top: 200px;
+    padding-top: 100px;
+    height: 700px;
+    
+    
+}
+.offersbox{
+    padding-top: 100px;
+    height: 700px;
+}
+.varietyh1{
+    margin-left:100px;
+    margin-bottom: 0;
+    font-size: 60px;
+}
+.varietyh2{
+    margin-left: 100px;
+    margin-top: 0;
+    margin-bottom: 150px;
+    font-size: 30px;
+    opacity: 0.7;
+}
+.sanguineorangeimg{
+    position: absolute;
+    display: inline;
+    height: 350px;
+    margin-left: 100px;
+    border-bottom: ridge 4px ;
+}
+.sanguineorange{
+    display: inline;
+    position: absolute;
+    left:800px;  
+   
+}
+.sanguineorangetxt{
+    display: inline;
+    position: absolute;
+    left:800px;
+    top: 1100px;
+    font-weight: bold;
+    opacity: 0.7;
+}
+.fkg{
+    position: absolute;
+    left: 1000px;
+    top: 1200px;
+    border: 2px solid gray;
+    display:inline;
+    font-size: 30px;
+    padding: 20px 50px 90px;
+    box-shadow: 10px;
+
+   
+}
+.fprice{
+    position: absolute;
+    left: 1010px;
+    top: 1290px;
+    display:inline;
+    font-size: 30px;
+
+}
+.navelorange{
+    display: inline;
+    margin-left: 100px;
+    position: absolute;
+    top: 1400px;
+}
+.navelorangetxt{
+    display: inline;
+    margin-left: 100px;
+    position: absolute;
+    top: 1470px;
+    font-weight: bold;
+    opacity: 0.7;
+}
+.navelorangeimg{
+    position:absolute;
+    height: 700px;
+    left: 600px;
+    top: 1250px;
+    border-bottom: ridge 4px ;
+}
+.skg{
+    position: absolute;
+    left: 300px;
+    top: 1590px;
+    border: 2px solid gray;
+    display:inline;
+    font-size: 30px;
+    padding: 20px 50px 90px;
+    box-shadow: 10px;
+}
+.sprice{
+    position: absolute;
+    left: 310px;
+    top: 1690px;
+    display:inline;
+    font-size: 30px;
+
+}
+.smoothorangeimg{
+    position: absolute;
+    height: 480px;
+    left: 100px;
+    top: 1990px;
+    border-bottom: ridge 4px ;
+}
+.smoothorange{
+    position: absolute;
+    display: inline;
+    left:800px;
+    top: 2000px;  
+}
+.smoothorangetxt{
+    position: absolute;
+    display: inline;
+    left:800px;
+    top: 2070px;
+    font-weight: bold;
+    opacity: 0.7
+}
+.tkg{
+    position: absolute;
+    left: 900px;
+    top: 2200px;
+    border: 2px solid gray;
+    display:inline;
+    font-size: 30px;
+    padding: 20px 50px 90px;
+    box-shadow: 10px;
+}
+.tprice{
+    position: absolute;
+    left: 910px;
+    top: 2300px;
+    display:inline;
+    font-size: 30px;
+
+}
