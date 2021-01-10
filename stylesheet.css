@@ -7,6 +7,7 @@
     height: 80px;
     font-weight: bold;
     display: flex;
+
     
 }
 .header ul{
@@ -36,7 +37,7 @@
     margin-left: 30px;
 }
 .header_aboutus{
-    margin-left: 300px;
+    margin-left: 200px;
 }
 .principal{
     width: 100%;
@@ -92,20 +93,9 @@
 }
 .variety{
     width: 100%;
-    height: 500px;
-    display: flex; 
-    flex-direction: row;
-
-}
-.variety .box{
-    width: 50%;;
-    height: 100%;
-    display: flex;
-    color: black;
-    font-weight: bold;
-    
 }
 .variety_text_1{
+    margin-top: 120px;
     font-size: 60px;
     margin-left: 100px;
 }
@@ -116,18 +106,146 @@
     padding-top: 20px;
     opacity: 0.7;
 }
-.variety_box_1{
-    background-color: black;
-    flex-direction: column;
-}
-.variety_box_2{
-    background-color: hotpink;
-    flex-direction:column;
-    align-items: center;
-    justify-content: center;
+.sanguine{
+    width: 100%;
+    height: 400px;
+    display: flex;
 }
 
+.box-sanguineimg{
+    width: 50%;
+    height: 100%;
+}
+.sanguineimg{
+    padding: 20px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 20px;
+    position:relative;
+    right: 100px;
+}
 
+.box-sanguinetext{
+    width: 50%;
+    height: 100%;
+    background-color: lightskyblue;
+}
+.sanguinetext-1{
+    font-weight: bold;
+    font-size: 40px;
+  
+    
+}
+.sanguinetext-2{ 
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+    opacity: 0.7;
+}
+.kg-1{
+    border: 2px solid gray;
+    font-size: 30px;
+    padding: 20px 50px 90px;
+    box-shadow: 10px;
+    margin-top: 100px;
+    position: absolute;
+    right: 250px;
+}
+.price-1{
+    font-size: 30px;
+    position: absolute;
+    right: 260px;
+    margin-top: 190px;
+
+}
+.navel{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.box-naveltext{
+    width: 50%;
+    height: 100%;
+    background-color: orange;
+}   
+.box-navelimg{
+    width: 50%;
+    height: 100%;
+    background-color: lime;
+    
+}
+.navelimg{
+    height: 450px;
+    padding-bottom: 400px;
+}
+.naveltext-1{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 40px;
+}  
+.naveltext-2{
+    margin-left: 110px;
+    margin-top: 20px;
+    font-weight: bold;
+    opacity: 0.7;
+}
+.kg-2{
+    border: 2px solid gray;
+    font-size: 30px;
+    padding: 20px 50px 90px;
+    box-shadow: 10px;
+    margin-top: 110px;
+    position: absolute;
+    left: 200px;
+}
+.price-2{
+    font-size: 30px;
+    position: absolute;
+    left: 210px;
+    margin-top: 200px;
+}
+.smooth{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.box-smoothimg{
+    width: 50%;
+    height: 100%;
+    background-color: lightgreen;
+}
+.smoothimg{
+    height: 450px;
+    padding-bottom: 400px;
+}
+.box-smoothtext{
+    width: 50%;
+    height: 100%;
+    background-color: skyblue;
+}
+.smoothtext-1{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.smoothtext-2{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: bold;
+    opacity: 0.7;
+}
+.kg-3{
+    border: 2px solid gray;
+    font-size: 30px;
+    padding: 20px 50px 90px;
+    box-shadow: 10px;
+    margin-top: 300px;
+    position: absolute;
+    
+}
+.price-3{
+    font-size: 30px;
+}
 
 
 
